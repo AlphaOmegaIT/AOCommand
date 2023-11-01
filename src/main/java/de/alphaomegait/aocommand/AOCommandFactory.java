@@ -3,7 +3,7 @@ package de.alphaomegait.aocommand;
 import de.alphaomegait.aocommand.command.AOCommand;
 import de.alphaomegait.aocommand.command.ICommand;
 import de.alphaomegait.aocommand.tabcompleter.ITabCompleter;
-import enums.SenderType;
+import de.alphaomegait.aocommand.enums.SenderType;
 import org.bukkit.command.*;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;

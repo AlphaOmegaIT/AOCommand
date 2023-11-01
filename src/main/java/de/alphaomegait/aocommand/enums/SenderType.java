@@ -1,4 +1,4 @@
-package enums;
+package de.alphaomegait.aocommand.enums;
 
 public enum SenderType {
   PLAYER,

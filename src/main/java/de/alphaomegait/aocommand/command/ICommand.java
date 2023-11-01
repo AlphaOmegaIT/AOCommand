@@ -1,6 +1,6 @@
 package de.alphaomegait.aocommand.command;
 
-import enums.SenderType;
+import de.alphaomegait.aocommand.enums.SenderType;
 import org.jetbrains.annotations.NotNull;
 
 import java.lang.annotation.ElementType;
