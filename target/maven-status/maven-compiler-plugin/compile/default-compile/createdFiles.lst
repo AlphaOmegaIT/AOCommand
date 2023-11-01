@@ -1,0 +1,8 @@
+de\alphaomegait\aocommand\ICommand.class
+de\alphaomegait\aocommand\AOCompleter.class
+de\alphaomegait\aocommand\example\Example.class
+de\alphaomegait\aocommand\example\ExampleCommand.class
+de\alphaomegait\aocommand\SenderType.class
+de\alphaomegait\aocommand\AOCommand.class
+de\alphaomegait\aocommand\ITabCompleter.class
+de\alphaomegait\aocommand\AOCommandFactory.class
